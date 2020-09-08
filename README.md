@@ -1,2 +1,2 @@
 # Testcode
-this is a plane game
+#There are some code that can run a plane game, but somehow problem made the game wrong, I hope someone can fix it,thanks...
